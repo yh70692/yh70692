@@ -46,11 +46,12 @@ I'm a software engineering student currently in the final stretch of my educatio
   <img src= "https://github.com/yh70692/yh70692/blob/6001aa2e4057a745adafa2d402c04d0ba50ffbca/Mothers.Soul.Ecommerce.Demo.gif">
 </p>
 
-***The above GIF showcases "Mothers Soul" an e-commerce website I developed for my 3rd-year Computer Science course. It's a comprehensive web development project that incorporates various technologies. HTML, CSS, JavaScript, PHP, and SQL are fundamental tools in web development, and combining them can lead to the creation of dynamic and interactive websites. For more information on the Mothers Soul repository.***
-
-
-
-
+<p align="center" >
+	<em>The above GIF showcases "Mothers Soul" an e-commerce website I developed for my 3rd-year Computer Science course. 
+	It's a comprehensive web development project that incorporates various technologies. 
+	HTML, CSS, JavaScript, PHP, and SQL are fundamental tools in web development, and combining them can lead to the creation of dynamic and interactive websites. 
+	For more information on the Mothers Soul repository.
+</p>
 
 <br>
 
@@ -59,7 +60,7 @@ I'm a software engineering student currently in the final stretch of my educatio
 <a href="https://www.linkedin.com/in/yassin-hassan-b3aa29262/">
   <img align="center" alt="My Linkedin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-<a href="yh70692@gmail.com">
+<a href="mailto:yh70692@gmail.com">
   <img align="center" alt="My Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />
 </a>
      
@@ -72,7 +73,9 @@ I'm a software engineering student currently in the final stretch of my educatio
 As I progressed through my computer science studies, I came to realize just how vast and dynamic the tech space truly is. My educational journey has been a captivating exploration, expanding my knowledge across various coding languages. I've delved into the versatility of Python, the web development trifecta of HTML, CSS, and JavaScript, and even ventured into the realms of PHP. These coding languages have become the tools I use to bring my creative visions to life and to build innovative solutions.
 
 From the simplicity of Scratch to the complexity of Python and web technologies, my coding journey has been a rewarding evolution. I look forward to furthering my exploration of technology and leveraging my skills to contribute meaningfully to the ever-evolving field of information technology.
-	</summery>
+</summery>
+
+
 
 
 

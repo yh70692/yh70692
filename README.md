@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**`Cyber Sculptor (Developer/Artist/)`**
+**`Cyber Sculptor (Developer/Artist)`**
 
 I'm a software engineering student currently in the final stretch of my education at Eduvos, and I'm eager to embark on a career in the tech world. What truly fuels my passion is the process of crafting new applications and systems that can revolutionize the way we interact with technology. One of the things I relish the most in my work is the creative aspect of it. I find immense joy in designing intuitive user interfaces and enhancing the overall user experience. It's where my artistic side meets my technical skills, and the synergy between the two is what I find most rewarding in software development.
 
